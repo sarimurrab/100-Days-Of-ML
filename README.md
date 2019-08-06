@@ -1,2 +1,2 @@
 # 100-Days-Of-ML
-Accep the challenge to Learn
+Accept the challenge to Learn
